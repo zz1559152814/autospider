@@ -1,0 +1,1309 @@
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="衆議院" height="20" src="/KENSAKU/images/title_syuugiin.gif"/></td>
+<td>&amp;nbsp&amp;nbsp</td>
+<td><img alt="回次選択" height="20" src="/KENSAKU/images/subtitle_kaijisentaku.gif"/></td>
+</tr>
+</table>
+</td>
+<td><img alt="衆議院" height="20" src="/KENSAKU/images/title_syuugiin.gif"/></td>
+<td>&amp;nbsp&amp;nbsp</td>
+<td><img alt="回次選択" height="20" src="/KENSAKU/images/subtitle_kaijisentaku.gif"/></td>
+<td class="small"><font color="#666666">衆議院会議録をご覧になることができます。<br/>国会回次を選択してください。</font></td>
+<td align="right" class="large">
+<img alt="回次選択画面" height="13" src="/KENSAKU/images/icon_arrow_b.gif" width="15"/>
+<a href="./mainb1.html" target="MAIN1">144回次以前</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./195/main.html" target="_top">195回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./195/main.html" target="_top">195回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./194/main.html" target="_top">194回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./194/main.html" target="_top">194回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./193/main.html" target="_top">193回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./193/main.html" target="_top">193回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./192/main.html" target="_top">192回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./192/main.html" target="_top">192回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./191/main.html" target="_top">191回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./191/main.html" target="_top">191回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./190/main.html" target="_top">190回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./190/main.html" target="_top">190回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./189/main.html" target="_top">189回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./189/main.html" target="_top">189回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./188/main.html" target="_top">188回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./188/main.html" target="_top">188回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./187/main.html" target="_top">187回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./187/main.html" target="_top">187回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./186/main.html" target="_top">186回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./186/main.html" target="_top">186回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./185/main.html" target="_top">185回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./185/main.html" target="_top">185回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./184/main.html" target="_top">184回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./184/main.html" target="_top">184回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./183/main.html" target="_top">183回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./183/main.html" target="_top">183回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./182/main.html" target="_top">182回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./182/main.html" target="_top">182回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./181/main.html" target="_top">181回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./181/main.html" target="_top">181回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./180/main.html" target="_top">180回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./180/main.html" target="_top">180回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./179/main.html" target="_top">179回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./179/main.html" target="_top">179回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./178/main.html" target="_top">178回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./178/main.html" target="_top">178回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./177/main.html" target="_top">177回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./177/main.html" target="_top">177回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./176/main.html" target="_top">176回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./176/main.html" target="_top">176回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./175/main.html" target="_top">175回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./175/main.html" target="_top">175回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./174/main.html" target="_top">174回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./174/main.html" target="_top">174回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./173/main.html" target="_top">173回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./173/main.html" target="_top">173回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./172/main.html" target="_top">172回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./172/main.html" target="_top">172回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./171/main.html" target="_top">171回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./171/main.html" target="_top">171回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./170/main.html" target="_top">170回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./170/main.html" target="_top">170回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./169/main.html" target="_top">169回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./169/main.html" target="_top">169回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./168/main.html" target="_top">168回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./168/main.html" target="_top">168回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./167/main.html" target="_top">167回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./167/main.html" target="_top">167回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./166/main.html" target="_top">166回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./166/main.html" target="_top">166回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./165/main.html" target="_top">165回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./165/main.html" target="_top">165回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./164/main.html" target="_top">164回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./164/main.html" target="_top">164回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./163/main.html" target="_top">163回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./163/main.html" target="_top">163回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./162/main.html" target="_top">162回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./162/main.html" target="_top">162回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./161/main.html" target="_top">161回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./161/main.html" target="_top">161回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./160/main.html" target="_top">160回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./160/main.html" target="_top">160回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./159/main.html" target="_top">159回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./159/main.html" target="_top">159回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./158/main.html" target="_top">158回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./158/main.html" target="_top">158回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./157/main.html" target="_top">157回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./157/main.html" target="_top">157回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./156/main.html" target="_top">156回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./156/main.html" target="_top">156回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./155/main.html" target="_top">155回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./155/main.html" target="_top">155回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./154/main.html" target="_top">154回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./154/main.html" target="_top">154回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./153/main.html" target="_top">153回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./153/main.html" target="_top">153回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./152/main.html" target="_top">152回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./152/main.html" target="_top">152回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./151/main.html" target="_top">151回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./151/main.html" target="_top">151回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./150/main.html" target="_top">150回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./150/main.html" target="_top">150回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./149/main.html" target="_top">149回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./149/main.html" target="_top">149回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./148/main.html" target="_top">148回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./148/main.html" target="_top">148回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./147/main.html" target="_top">147回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./147/main.html" target="_top">147回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./146/main.html" target="_top">146回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./146/main.html" target="_top">146回</a></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./145/main.html" target="_top">145回</a></td>
+</tr>
+</table>
+</td>
+<td><img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/></td>
+<td class="large"><a href="./145/main.html" target="_top">145回</a></td>
+<html>
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="no-cache" http-equiv="Pragma"/>
+  <title>
+   衆議院回次情報
+  </title>
+  <link href="/SENTAKU/text.css" rel="stylesheet" type="text/css"/>
+ </head>
+ <body bgcolor="#FFFFFF" leftmargin="0" marginheight="10" marginwidth="0" text="#000000" topmargin="10">
+  <center>
+   <table border="0" cellpadding="0" cellspacing="5" width="590">
+    <tr>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="衆議院" height="20" src="/KENSAKU/images/title_syuugiin.gif"/>
+        </td>
+        <td>
+         &amp;nbsp&amp;nbsp
+        </td>
+        <td>
+         <img alt="回次選択" height="20" src="/KENSAKU/images/subtitle_kaijisentaku.gif"/>
+        </td>
+       </tr>
+      </table>
+     </td>
+    </tr>
+    <tr>
+     <td class="small">
+      <font color="#666666">
+       衆議院会議録をご覧になることができます。
+       <br/>
+       国会回次を選択してください。
+      </font>
+     </td>
+    </tr>
+   </table>
+   <table border="0" cellspacing="0" width="100%">
+    <tr>
+     <td align="right" class="large">
+      <img alt="回次選択画面" height="13" src="/KENSAKU/images/icon_arrow_b.gif" width="15"/>
+      <a href="./mainb1.html" target="MAIN1">
+       144回次以前
+      </a>
+     </td>
+    </tr>
+   </table>
+   <p>
+   </p>
+   <table border="0" cellpadding="0" cellspacing="12">
+    <tr>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./195/main.html" target="_top">
+          195回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./194/main.html" target="_top">
+          194回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./193/main.html" target="_top">
+          193回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./192/main.html" target="_top">
+          192回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./191/main.html" target="_top">
+          191回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./190/main.html" target="_top">
+          190回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./189/main.html" target="_top">
+          189回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./188/main.html" target="_top">
+          188回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./187/main.html" target="_top">
+          187回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./186/main.html" target="_top">
+          186回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./185/main.html" target="_top">
+          185回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./184/main.html" target="_top">
+          184回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./183/main.html" target="_top">
+          183回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./182/main.html" target="_top">
+          182回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./181/main.html" target="_top">
+          181回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./180/main.html" target="_top">
+          180回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./179/main.html" target="_top">
+          179回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./178/main.html" target="_top">
+          178回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./177/main.html" target="_top">
+          177回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./176/main.html" target="_top">
+          176回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./175/main.html" target="_top">
+          175回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./174/main.html" target="_top">
+          174回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./173/main.html" target="_top">
+          173回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./172/main.html" target="_top">
+          172回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./171/main.html" target="_top">
+          171回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./170/main.html" target="_top">
+          170回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./169/main.html" target="_top">
+          169回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./168/main.html" target="_top">
+          168回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./167/main.html" target="_top">
+          167回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./166/main.html" target="_top">
+          166回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./165/main.html" target="_top">
+          165回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./164/main.html" target="_top">
+          164回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./163/main.html" target="_top">
+          163回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./162/main.html" target="_top">
+          162回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./161/main.html" target="_top">
+          161回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./160/main.html" target="_top">
+          160回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./159/main.html" target="_top">
+          159回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./158/main.html" target="_top">
+          158回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./157/main.html" target="_top">
+          157回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./156/main.html" target="_top">
+          156回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./155/main.html" target="_top">
+          155回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./154/main.html" target="_top">
+          154回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./153/main.html" target="_top">
+          153回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./152/main.html" target="_top">
+          152回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./151/main.html" target="_top">
+          151回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./150/main.html" target="_top">
+          150回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./149/main.html" target="_top">
+          149回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./148/main.html" target="_top">
+          148回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./147/main.html" target="_top">
+          147回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./146/main.html" target="_top">
+          146回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td>
+         <img alt="回次選択" height="13" src="/KENSAKU/images/icon_arrow.gif" width="15"/>
+        </td>
+        <td class="large">
+         <a href="./145/main.html" target="_top">
+          145回
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+    </tr>
+   </table>
+  </center>
+ </body>
+</html>
+
